@@ -8,3 +8,10 @@ Silakan kumpulkan berkas tugas pendahuluan dan laporan praktikum sesuai dengan k
 4. Kelas D -> https://forms.gle/M1nwBMiUKLzHcqxd6
 
 Anda wajib menggunakan alamat surel UGM dan hanya diperkenankan melakukan pengumpulan berkas sebanyak satu kali untuk setiap modulnya.
+
+Format penamaan berkas:
+
+1. Tugas pendahuluan: TP_NIU_Kode Modul_Nama Asisten Praktikum
+(contoh: TP_346858_PEA01_Johan)
+2. Laporan Praktikum: LP_NIU_Kode Modul_Nama Asisten Praktikum
+(contoh: LP_346858_PEA01_Johan)
